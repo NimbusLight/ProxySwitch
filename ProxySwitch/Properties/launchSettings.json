@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProxyController": {
+      "commandName": "Project",
+      "commandLineArgs": "-s off"
+    }
+  }
+}
